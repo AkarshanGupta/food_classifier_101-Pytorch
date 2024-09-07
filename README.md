@@ -1,5 +1,3 @@
-# Project Documentation
-
 ## Introduction
 
 This project is designed to create a web-based tool for predicting food categories from uploaded images. The tool leverages a pre-trained VGG model to classify images into one of 101 food categories. Users can upload an image of food, and the system will analyze the image to predict the specific food category it belongs to. This tool aims to facilitate easy and accurate food identification, which can be useful for various applications, such as dietary analysis, food recognition in mobile apps, and automated food categorization systems.
@@ -24,4 +22,13 @@ Python is the programming language used to implement the logic of the project. I
 ### PyTorch
 
 PyTorch is an open-source machine learning framework used for building and training neural networks. It will be utilized to work with the pre-trained VGG model, perform inference on the uploaded images, and handle the computations required for food category classification.
+
+# Website
+![Screenshot 2024-09-07 184730](https://github.com/user-attachments/assets/9008bf5a-995b-407c-9c11-58d34839c11f)
+https://github.com/user-attachments/assets/bb6486e8-1a7e-445a-abcf-5a4b21b0ec4b
+
+
+
+
+
 
