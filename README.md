@@ -25,7 +25,10 @@ PyTorch is an open-source machine learning framework used for building and train
 
 # Website
 ![Screenshot 2024-09-07 184730](https://github.com/user-attachments/assets/9008bf5a-995b-407c-9c11-58d34839c11f)
-https://github.com/user-attachments/assets/bb6486e8-1a7e-445a-abcf-5a4b21b0ec4b
+https://github.com/user-attachments/assets/ad518a04-6300-4e63-b8d8-ea305e27bc1f
+
+
+
 
 
 
