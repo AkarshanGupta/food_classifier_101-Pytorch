@@ -28,6 +28,12 @@ PyTorch is an open-source machine learning framework used for building and train
 
 https://github.com/user-attachments/assets/229b496a-69d9-41c1-a4c8-eafd6a324249
 
+# Few Things 
+- This project is still going on. I have updated the notebook you can check it out.
+- If you open the notebook and find the accuracy it is pretty bad so i am gonna workout how it can be improved.
+- I have used a pre trained model for the inetrface the pre trained model is microsoft-resnet-50.
+- I am gonna with the accuracy and change this code for the repository.
+
 
 
 
