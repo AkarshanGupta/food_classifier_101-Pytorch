@@ -30,17 +30,21 @@ https://github.com/user-attachments/assets/229b496a-69d9-41c1-a4c8-eafd6a324249
 
 # Few Things 
 1. This project includes two notebooks:
-   - The first notebook had issues such as low accuracy, overfitting, and underfitting.
-   - I worked on resolving these issues, and the **Final_Notebook** effectively addresses:
+   - The first notebook faced challenges like low accuracy, overfitting, and underfitting.
+   - I resolved these issues in the **Final_Notebook**, which successfully addresses:
      - The accuracy problem.
-     - Overfitting and underfitting issues.
+     - Both overfitting and underfitting issues.
 
 2. You can approach this project in two ways:
-   - Option 1: [Explain the first method here]
-   - Option 2: [Explain the second method here]
+   - **Approach 1**: Download the interface file and run it using **python interface.py**. Since we are using Gradio, it will automatically launch the interface.
+     - The required models and dependencies will be downloaded from the cache on the local machine where the file is executed, and the interface will interact with these models to generate results.
+   - **Approach 2**: Run the **Final_Notebook**, save the trained model, and write an interface script that includes the following logic:
+     - The interface should preprocess the input image and then feed it to the saved model for prediction, returning the output.
+     - I couldn't complete this approach due to hardware limitations—my machine lacks a GPU, and the free GPU runtime in Colab wasn't sufficient to train and save the entire model.
 
 3. For the interface, I utilized a pre-trained model:
-   - The pre-trained model is **Microsoft ResNet-50**.
+   - The pre-trained model used is **Microsoft ResNet-50**.
+
 
 
 
