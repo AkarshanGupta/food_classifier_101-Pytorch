@@ -29,10 +29,19 @@ PyTorch is an open-source machine learning framework used for building and train
 https://github.com/user-attachments/assets/229b496a-69d9-41c1-a4c8-eafd6a324249
 
 # Few Things 
-- This project is still going on. I have updated the notebook you can check it out.
-- If you open the notebook and find the accuracy it is pretty bad so i am gonna workout how it can be improved.
-- I have used a pre trained model for the inetrface the pre trained model is microsoft-resnet-50.
-- I am gonna with the accuracy and change this code for the repository.
+1. This project includes two notebooks:
+   - The first notebook had issues such as low accuracy, overfitting, and underfitting.
+   - I worked on resolving these issues, and the **Final_Notebook** effectively addresses:
+     - The accuracy problem.
+     - Overfitting and underfitting issues.
+
+2. You can approach this project in two ways:
+   - Option 1: [Explain the first method here]
+   - Option 2: [Explain the second method here]
+
+3. For the interface, I utilized a pre-trained model:
+   - The pre-trained model is **Microsoft ResNet-50**.
+
 
 
 
